@@ -4,8 +4,6 @@ from bs4 import BeautifulSoup
 from pathlib import Path
 import pandas as pd
 import re
-import numpy as np
-
 
 class Scraper:
     """

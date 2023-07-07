@@ -1,7 +1,7 @@
 This repository contains code to scrape tables for all stations in all the given years from imd-pune website. It also consolidates the scraped data into a single dataset.
 
 ```
-.       
+      
 ├── README.md               <- The top-level README for developers using this project.
 ├── data
 │   └── raw                 <- All the data scraped by "table_scraper.py" and "consolidated_data.py" is stored here.

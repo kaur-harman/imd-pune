@@ -2,7 +2,6 @@ import requests
 import json
 from bs4 import BeautifulSoup
 from pathlib import Path
-import pandas as pd
 import re
 import numpy as np
 import glob
