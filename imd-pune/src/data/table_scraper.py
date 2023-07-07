@@ -105,7 +105,6 @@ class Scraper:
     
 if __name__ == '__main__':
     url = "https://cdsp.imdpune.gov.in/home_riturang_sn.php#snormals"
-    scraper = Scraper()
     while True:
         try:
             scraper = Scraper()
